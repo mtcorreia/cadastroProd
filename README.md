@@ -26,7 +26,7 @@ O Sistema de Cadastro de Produtos é uma ferramenta simples para o controle de E
 Após clonar o projeto com o comendo "git clone <endereço do projeto>", siga os passos abaixo:
 
 - Ter em sua máquina o <b>XAMPP Control Panel</b>, abrir o programa do Xampp e iniciar o "MySQL".
-- Possuir em sua máquina o <b>MySQL Workbench 8.0</b>, abrir o programa e criar o banco de dados <i>(será passado em um arquivo .txt para maior auxílio)</i>.
+- Possuir em sua máquina o <b>MySQL Workbench 8.0</b>, abrir o programa e criar o banco de dados <i>(no arquivo "comandosSQL.txt")</i>.
 - Poderá abrir no <b>Visual Studio Code</b> a pasta com o código-fonte do sistema para maiores visualizações, para testar, basta rodar o projeto pelo Visual Studio Code.
 
 ## Autor
