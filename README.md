@@ -7,12 +7,14 @@
 
 ## Funcionalidades
 - Cadastro de Produtos.
+- Listagem de Produtos.
+- Exclusão de Produtos.
 
 ## Descrição
 Projeto criado e produzido para estudos mais aprofundados na Linguagem Python. <br/>
 Tendo como vista a utilização do MySQL como Banco de Dados, o estudo busca a integração da linguagem escolhida com a ferramenta do Banco de Dados.
 
-O Sistema de Cadastro de Produtos é uma ferramenta simples para o controle de Estoque dos mais variados produtos categorizados. Possuí, atualmente, apenas a funcionalidade de Cadastro.
+O Sistema de Cadastro de Produtos é uma ferramenta simples para o controle de Estoque dos mais variados produtos categorizados. Possuí, atualmente, apenas com as funcionalidades de cadastro, listagem e exclusão de produtos.
 
 ## Tecnologias Usadas
 - <b>Linguagem:</b> Python
